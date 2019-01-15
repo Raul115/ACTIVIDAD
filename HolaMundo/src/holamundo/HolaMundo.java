@@ -17,6 +17,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         
         System.out.println("Este archivo es modificado por José y se subirá al repositorio remoto");
+        System.out.println("1.0");
     }
     
 }
